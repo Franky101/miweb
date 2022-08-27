@@ -24,6 +24,6 @@ git branch
 git checkout -b ramab: -b es para poder pasarnos a la branch creada
 
 
-git merge
+git merge [ramab]: para traer los cambios de una rama a otra.
 explicacion de workflow con github:
 
