@@ -9,3 +9,21 @@ Un diario gratuito donde puedas tomar exactamente los mismos pasos que yo para a
 
 
 
+Nota: deberia primero crear el contenido y luego agregarlo a la pagina en sprints para controlar y mejorar el contenido en versiones mas controladas. el codigo se va a hacer brutalmente amplio si no hago esto en artefactos.
+
+
+comandos nuevos
+git status -s: comando simplificado del comando git status
+
+git diff: muestra las modificaciones de nuestro codigo
+git diff --staged: muestra todos los cambios relacionados al stage
+git log
+git log --oneline: version mas acotada para ver los logs
+
+git branch
+git checkout -b ramab: -b es para poder pasarnos a la branch creada
+
+
+git merge
+explicacion de workflow con github:
+
