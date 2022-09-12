@@ -1,0 +1,6 @@
+Postgress SQL PORT:
+5432
+
+Pass:
+23+aA!
+
