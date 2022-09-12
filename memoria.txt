@@ -31,7 +31,10 @@ explicacion de workflow con github:
 
 !!!! key
 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
+<<<<<<< HEAD
 
 
 Otras cuestiones de estandares de seguridad con Jenkins y demas:
 owasp.org
+=======
+>>>>>>> 29c00707174ffafd7bdc205fcc7be1dc7e400055
